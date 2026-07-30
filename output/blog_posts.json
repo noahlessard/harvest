@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Now: July 2026",
+      "link": "https://salm.dev/now/",
+      "author": "Nico Salm",
+      "date": "2026-07-29",
+      "description": "What I'm working on, reading, and thinking about right now."
+    },
+    {
       "title": "Wardriving with my Cardputer",
       "link": "https://mdberkey.github.io/blog/wardriving-with-my-cardputer/",
       "author": "Michael Berkey",
@@ -9,7 +16,7 @@
     },
     {
       "title": "Now: June 2026",
-      "link": "https://salm.dev/now/",
+      "link": "https://salm.dev/now/2026-jun/",
       "author": "Nico Salm",
       "date": "2026-06-26",
       "description": "What I'm working on, reading, and thinking about right now."

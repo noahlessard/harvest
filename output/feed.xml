@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Now: July 2026</title>
+      <link>https://salm.dev/now/</link>
+      <description>What I&#39;m working on, reading, and thinking about right now.</description>
+      <author>Nico Salm</author>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://salm.dev/now/</guid>
+    </item>
     <item>
       <title>Wardriving with my Cardputer</title>
       <link>https://mdberkey.github.io/blog/wardriving-with-my-cardputer/</link>
@@ -17,11 +25,11 @@
     </item>
     <item>
       <title>Now: June 2026</title>
-      <link>https://salm.dev/now/</link>
+      <link>https://salm.dev/now/2026-jun/</link>
       <description>What I&#39;m working on, reading, and thinking about right now.</description>
       <author>Nico Salm</author>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://salm.dev/now/</guid>
+      <guid>https://salm.dev/now/2026-jun/</guid>
     </item>
     <item>
       <title>Now: May 2026</title>
