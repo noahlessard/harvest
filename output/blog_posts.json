@@ -1,6 +1,13 @@
 {
   "posts": [
     {
+      "title": "Powering off TVs with my Cardputer",
+      "link": "https://mdberkey.github.io/blog/powering-off-tvs-with-my-cardputer/",
+      "author": "Michael Berkey",
+      "date": "2026-07-30",
+      "description": "I've been having fun exploring the infrared features of Bruce firmware on my cardputer. My favorite is the TV-B-Gone function, which spams 100 power off signals used by common TVs and displays. Your..."
+    },
+    {
       "title": "Now: July 2026",
       "link": "https://salm.dev/now/",
       "author": "Nico Salm",

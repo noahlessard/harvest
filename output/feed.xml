@@ -5,8 +5,16 @@
     <link>https://upl.cs.wisc.edu</link>
     <description>Aggregated blog posts from UPL members</description>
     <language>en-us</language>
-    <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    <lastBuildDate>Wed, 29 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Powering off TVs with my Cardputer</title>
+      <link>https://mdberkey.github.io/blog/powering-off-tvs-with-my-cardputer/</link>
+      <description>I&#39;ve been having fun exploring the infrared features of Bruce firmware on my cardputer. My favorite is the TV-B-Gone function, which spams 100 power off signals used by common TVs and displays. Your...</description>
+      <author>Michael Berkey</author>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://mdberkey.github.io/blog/powering-off-tvs-with-my-cardputer/</guid>
+    </item>
     <item>
       <title>Now: July 2026</title>
       <link>https://salm.dev/now/</link>
